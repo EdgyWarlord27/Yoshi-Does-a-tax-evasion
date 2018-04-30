@@ -1,0 +1,1 @@
+current_player = (current_player == 0) ? 1 : 0;
